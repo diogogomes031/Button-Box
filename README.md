@@ -9,6 +9,7 @@ Arduíno Micro/ Micro Pro / Leonardo
 
 
 Para replicares o projecto apenas necessitas de ver os itens que vou deixar disponibilizados.
+Ambos ficheiros 3D (tampa/ parte de baixo) estão prontos para um Slicer 3D.
 
 -----------------------------------------------------------------------------English---------------------------------
 
@@ -20,3 +21,4 @@ The entire project is open source and can be replicated by everyone who has:
 
 
 To replicate the project, you only need to see the items that I will leave available.
+Both 3D files (Lid / Bottom) are good to go to a 3D slicer and start printing .
