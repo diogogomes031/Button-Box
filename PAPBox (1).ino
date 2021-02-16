@@ -26,11 +26,11 @@ void loop() {
     if (digitalRead(3) == LOW) {
        Keyboard.press(KEY_LEFT_CTRL);
       Keyboard.press(KEY_LEFT_SHIFT);
-      Keyboard.press('e');
+      Keyboard.press('o');
       delay(100);
       Keyboard.release(KEY_LEFT_CTRL);
       Keyboard.release(KEY_LEFT_SHIFT);
-      Keyboard.release('e');  
+      Keyboard.release('o');  
       delay(100);
   }
     if (digitalRead(4) == LOW) {
