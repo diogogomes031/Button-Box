@@ -14,6 +14,8 @@ Arduíno Micro/ Micro Pro / Leonardo
 Para replicares o projecto apenas necessitas de ver os itens que vou deixar disponibilizados.
 Ambos ficheiros 3D (tampa/ parte de baixo) estão prontos para um Slicer 3D.
 
+Os parafusos usados neste projeto foram com as seguintes medidas 3.5mm diametro e 16mm de comprimento
+
 -----------------------------------------------------------------------------English---------------------------------
 
 The button box is a project work, and consists of a box with buttons that when clicked, they perform a task on the computer.
@@ -28,3 +30,5 @@ Arduino Micro / Micro Pro / Leonardo
 
 To replicate the project, you only need to see the items that I will leave available.
 Both 3D files (Lid / Bottom) are good to go to a 3D slicer and start printing .
+
+The scrwes used in this project have the following measures 3.5mm in diameter and 16mm in length
